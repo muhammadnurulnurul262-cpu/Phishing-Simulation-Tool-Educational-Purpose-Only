@@ -60,7 +60,7 @@ Dibuat sebagai bahan pembelajaran keamanan siber, **bukan untuk disalahgunakan**
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/username-lo/phish_cam.git
+git clone https://github.com/FoxShadow32/Phishing-Simulation-Tool-Educational-Purpose-Only.git
 cd phish_cam
 
 # 2. Jalankan server PHP
